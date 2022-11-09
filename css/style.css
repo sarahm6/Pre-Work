@@ -1,0 +1,26 @@
+
+	<style type="text/css">
+		p{
+			font-family: cursive;
+		}
+		form{
+			padding:  15px;
+			border-style: double;
+		}
+		#Visit{
+			color: royalblue;
+		}
+		#div1{
+			position: absolute;
+		}
+		#div2{
+			position: relative;
+			padding:  15px;
+			margin: 20px;
+		}
+		.cool{
+			text-decoration: underline wavy blue 1px;
+		}
+	</style>
+
+
